@@ -22,7 +22,7 @@
 
 *Be sure to upload [session.json](https://github.com/AtVict0r/CodePath_Cybersecurity_Week9_Project/blob/master/session.json) directly to this GitHub repo/branch in order to get full credit.*
 
-List of the most frequently attacked ports:
+List of the top 5 most frequently attacked ports:
 
 | Attacked Ports        | Common Use     |
 | --------------------- | -------------- |
@@ -32,7 +32,7 @@ List of the most frequently attacked ports:
 | 3306                  | MySQL          |
 | 5060                  | VoIP           |
 
-Some ountries responsible for the attempts:
+Top 5 countries responsible for the attempts:
 
 | Attacker IPs    | Country   |
 | --------------  | --------- |
